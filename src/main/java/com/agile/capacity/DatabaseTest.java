@@ -10,7 +10,7 @@ public class DatabaseTest {
         String password = "admin"; // Replace with your actual password
 
         try (Connection connection = DriverManager.getConnection(url, user, password)) {
-            System.out.println("✅ Database connection successful!");
+            System.out.println("✅ Database connection successful!!");
         } catch (Exception e) {
             System.err.println("❌ Connection failed: " + e.getMessage());
         }
