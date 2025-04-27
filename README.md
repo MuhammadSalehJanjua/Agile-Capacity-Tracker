@@ -56,25 +56,6 @@ A full-stack application for tracking team capacity, managing sprints, and visua
 - PostgreSQL 15+
 
 ```
-
-## Project Structure 🗂️
-```
-agile-capacity-tracker/
-├── app/
-│   ├── (auth)/           # Authentication routes
-│   ├── api/              # API routes
-│   ├── dashboard/        # Main dashboard
-│   ├── teams/            # Team management
-│   └── sprints/          # Sprint planning
-├── components/           # Reusable components
-├── lib/                  # Utilities & helpers
-├── prisma/               # Database schema
-├── public/               # Static assets
-├── styles/               # Global styles
-└── types/                # TypeScript definitions
-```
-
-
 ## Deployment 🚀
 https://scad-agile-capacitytracker.vercel.app/
 
