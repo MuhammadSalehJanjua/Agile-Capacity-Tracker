@@ -27,21 +27,9 @@ A full-stack application for tracking team capacity, managing sprints, and visua
 - 🌓 Dark Mode
 
 ## Tech Stack 💻
-
-### Frontend
-| Technology | Description |
-|------------|-------------|
-| Next.js 14 | React framework with SSR/SSG |
-| Tailwind CSS | Utility-first CSS framework |
-| Recharts | Charting library |
-| React-Beautiful-DND | Drag-and-drop functionality |
-
-### Backend
-| Technology | Description |
-|------------|-------------|
-| Next.js |
-| PostgreSQL | 
-
+React/Next.js
+POSTGRESQL
+Java (Spring boot)
 
 ### DevOps
 | Technology | Purpose |
