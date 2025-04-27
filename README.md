@@ -1,9 +1,9 @@
 ```markdown
-# Agile Team Capacity Tracker 🚀
+# Agile Team Capacity Tracker
 
 A full-stack application for tracking team capacity, managing sprints, and visualizing workload distribution. Built with Next.js (frontend + API routes), Tailwind CSS, and PostgreSQL.
 
-## Features ✨
+## Features
 
 ### Core Functionality
 - **Dashboard Overview**
@@ -21,12 +21,12 @@ A full-stack application for tracking team capacity, managing sprints, and visua
   - Leave/day-off management
 
 ### Advanced Features
-- 📊 Data Visualization
-- 🔄 Drag-and-Drop Task Assignment
-- 📅 Smart Capacity Calculator
-- 🌓 Dark Mode
+-  Data Visualization
+-  Drag-and-Drop Task Assignment
+-  Smart Capacity Calculator
+-  Dark Mode
 
-## Tech Stack 💻
+## Tech Stack 
 React/Next.js
 POSTGRESQL
 Java (Spring boot)
@@ -37,16 +37,16 @@ Java (Spring boot)
 | Vercel | Deployment platform |
 | GitHub Actions | CI/CD Pipeline |
 
-## Getting Started 🛠️
+## Getting Started 
 
 ### Prerequisites
 - Node.js v18+
 - PostgreSQL 15+
 
 ```
-## Deployment 🚀
+## Deployment 
 https://scad-agile-capacitytracker.vercel.app/
 
-## License 📄
+## License 
 This project is licensed under the MIT License
 
